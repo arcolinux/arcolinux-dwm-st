@@ -1,0 +1,24 @@
+config.mk
+
+0.8.4
+
+
+git log
+
+ommit 4ef0cbd8b9371f37f7d02ef37b5378b879e6b8bf (HEAD -> master, origin/master, origin/HEAD)
+Author: Hiltjo Posthuma <hiltjo@codemadness.org>
+Date:   Sun Oct 18 11:18:03 2020 +0200
+
+    remove unused variable from previous patch
+
+commit 28b4c822c5c0acec300fdf15c6e3ede9f5e2335d
+Author: John Collis <john.collis@alliedtelesis.co.nz>
+Date:   Sun Sep 6 17:53:41 2020 +1200
+
+    ST: Add WM_ICON_NAME property support
+    
+    Also added _NET_WM_ICON_NAME.
+
+commit fa253f077f19b3220c7655b81bd91e52f4367803 (tag: 0.8.4)
+Author: Hiltjo Posthuma <hiltjo@codemadness.org>
+Date:   Fri Jun 19 11:27:17 2020 +0200
